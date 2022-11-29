@@ -1,0 +1,26 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "my first node project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": { "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-lewis98/nodepractice.git"
+  },
+  "author": "Scott Joseph Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-lewis98/nodepractice/issues"
+  },
+  "homepage": "https://github.com/S-lewis98/nodepractice#readme",
+  "dependencies": {
+    "chalk": "^5.1.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

@@ -1,4 +1,8 @@
-console.log("I am happy.")
+import chalk from 'chalk';
+
+console.log(chalk.blue("I am sad"));
+console.log(chalk.red('I am angry'));
+
 
 // git init 
 // git add * 
